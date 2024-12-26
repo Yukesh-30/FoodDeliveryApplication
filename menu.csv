@@ -1,0 +1,301 @@
+1,Masala Dosa,80.00,4.50,South Indian,veg
+2,Sambar Vada,60.00,4.20,South Indian,veg
+3,Paneer Butter Masala,150.00,4.80,North Indian,veg
+4,Chicken Biryani,200.00,4.50,South Indian,non-veg
+5,Vegetable Pulao,120.00,4.10,North Indian,veg
+6,Idli,40.00,4.30,South Indian,veg
+7,Butter Chicken,220.00,4.70,North Indian,non-veg
+8,Chole Bhature,110.00,4.60,North Indian,veg
+9,Masala Papad,50.00,4.40,North Indian,veg
+10,Hyderabadi Biryani,250.00,4.00,South Indian,non-veg
+11,Paneer Tikka,180.00,4.20,North Indian,veg
+12,Mutton Curry,270.00,4.20,South Indian,non-veg
+13,Dal Makhani,140.00,4.80,North Indian,veg
+14,Prawns Fry,300.00,4.50,South Indian,non-veg
+15,Mysore Pak,60.00,4.10,South Indian,veg
+16,Aloo Paratha,80.00,4.30,North Indian,veg
+17,Chettinad Chicken,230.00,4.70,South Indian,non-veg
+18,veg Korma,160.00,3.50,South Indian,veg
+19,Gobi Manchurian,130.00,4.40,Indo-Chinese,veg
+20,Lamb Rogan Josh,280.00,4.00,North Indian,non-veg
+21,Mysore Masala Dosa,90.00,4.50,South Indian,veg
+22,Rava Kesari,50.00,4.20,South Indian,veg
+23,veg Kurma,130.00,4.80,South Indian,veg
+24,Vegetable Biryani,150.00,4.50,South Indian,veg
+25,Ghee Pongal,80.00,4.10,South Indian,veg
+26,veg Kothu Parotta,120.00,4.30,South Indian,veg
+27,Chilli Parotta,140.00,4.70,South Indian,veg
+28,Bhindi Fry,110.00,4.60,North Indian,veg
+29,Gobi 65,130.00,4.40,Indo-Chinese,veg
+30,Mixed veg Curry,150.00,4.00,North Indian,veg
+31,Malai Kofta,180.00,4.50,North Indian,veg
+32,Chicken Tikka Masala,220.00,4.20,North Indian,non-veg
+33,Dosa,70.00,4.50,South Indian,veg
+34,Lemon Rice,90.00,4.50,South Indian,veg
+35,Mutton Sukka,250.00,4.10,South Indian,non-veg
+36,Pongal,80.00,4.30,South Indian,veg
+37,Kashmiri Pulao,180.00,4.70,North Indian,veg
+38,Beef Fry,270.00,4.60,South Indian,non-veg
+39,Palak Paneer,150.00,4.40,North Indian,veg
+40,Bhindi Masala,120.00,4.00,North Indian,veg
+41,Dal Tadka,110.00,4.50,North Indian,veg
+42,Crab Curry,350.00,4.20,South Indian,non-veg
+43,Aloo Gobi,100.00,4.80,North Indian,veg
+44,Rogan Josh,280.00,4.50,North Indian,non-veg
+45,Pesarattu,70.00,4.10,South Indian,veg
+46,Paneer Bhurji,160.00,4.30,North Indian,veg
+47,Pepper Chicken,220.00,4.70,South Indian,non-veg
+48,Tomato Soup,60.00,4.60,North Indian,veg
+49,Chicken Curry,200.00,4.40,South Indian,non-veg
+50,Paneer Paratha,90.00,4.00,North Indian,veg
+51,Vada Pav,30.00,4.50,Indian,veg
+52,Chicken Korma,240.00,4.20,North Indian,non-veg
+53,Mutton Kheema,250.00,4.80,South Indian,non-veg
+54,Paneer Kulcha,80.00,4.50,North Indian,veg
+55,Biryani,180.00,4.10,South Indian,non-veg
+56,Dhokla,50.00,4.30,Gujarati,veg
+57,Murgh Malai Tikka,220.00,4.70,North Indian,non-veg
+58,Paneer Pakoda,100.00,4.60,North Indian,veg
+59,Chicken Chettinad,230.00,4.40,South Indian,non-veg
+60,Gulab Jamun,40.00,4.00,Indian,veg
+61,veg Thali,200.00,4.50,Indian,veg
+62,Mutton Fry,270.00,4.20,South Indian,non-veg
+63,Paneer Lababdar,170.00,4.80,North Indian,veg
+64,Fish Fry,240.00,4.50,South Indian,non-veg
+65,Poha,50.00,4.10,Indian,veg
+66,Poori Bhaji,70.00,4.30,Indian,veg
+67,Kothu Parotta,150.00,4.70,South Indian,non-veg
+68,Masala Vada,40.00,4.60,South Indian,veg
+69,Tandoori Chicken,260.00,4.40,North Indian,non-veg
+70,Idiyappam,60.00,4.00,South Indian,veg
+71,Prawn Masala,300.00,4.50,South Indian,non-veg
+72,Dal Fry,100.00,4.20,North Indian,veg
+73,Chole,90.00,4.80,North Indian,veg
+74,Mutton Chops,280.00,4.50,South Indian,non-veg
+75,Upma,50.00,4.10,South Indian,veg
+76,Pani Puri,40.00,4.30,Indian,veg
+77,Chicken Bharta,200.00,4.70,North Indian,non-veg
+78,Methi Malai Murg,210.00,4.60,North Indian,non-veg
+79,Aloo Tikki,30.00,4.40,Indian,veg
+80,Fish Moilee,270.00,4.00,South Indian,non-veg
+81,Sushi,300.00,4.50,Japanese,non-veg
+82,Vegetable Tempura,150.00,4.20,Japanese,veg
+83,Chicken Teriyaki,250.00,4.80,Japanese,non-veg
+84,Miso Soup,100.00,4.50,Japanese,veg
+85,Ramen,200.00,4.10,Japanese,non-veg
+86,Edamame,80.00,4.30,Japanese,veg
+87,Tonkatsu,300.00,4.70,Japanese,non-veg
+88,Yakitori,220.00,4.60,Japanese,non-veg
+89,Tofu Salad,180.00,4.40,Japanese,veg
+90,Tempura Udon,250.00,4.00,Japanese,non-veg
+91,Chicken Lollipop,210.00,4.50,Indo-Chinese,non-veg
+92,Paneer Bhurji,150.00,4.20,North Indian,veg
+93,Hyderabadi Chicken,220.00,4.80,South Indian,non-veg
+94,Puliyodarai,70.00,4.50,South Indian,veg
+95,Vegetable Stew,110.00,4.10,South Indian,veg
+96,Margherita Pizza,300.00,4.30,Italian,veg
+97,Spaghetti Carbonara,350.00,4.70,Italian,non-veg
+98,Paneer Butter Naan,80.00,4.40,North Indian,veg
+99,Penne Arrabbiata,200.00,4.60,Italian,veg
+100,Masala Puri,50.00,4.00,Indian,veg
+101,Chicken Korma,250.00,4.30,North Indian,non-veg
+102,Paneer 65,180.00,4.40,South Indian,veg
+103,Mutton Biryani,270.00,4.50,South Indian,non-veg
+104,Prawn Masala,320.00,4.60,South Indian,non-veg
+105,veg Kurma,150.00,4.20,South Indian,veg
+106,Chicken Tikka,220.00,4.30,North Indian,non-veg
+107,Fish Curry,260.00,4.50,South Indian,non-veg
+108,Dal Fry,130.00,4.10,North Indian,veg
+109,Egg Biryani,240.00,4.40,South Indian,non-veg
+110,Malai Kofta,210.00,4.70,North Indian,veg
+111,Paneer Butter Masala,200.00,4.80,North Indian,veg
+112,Mutton Rogan Josh,280.00,4.60,North Indian,non-veg
+113,Gobi 65,160.00,4.30,Indo-Chinese,veg
+114,Chicken Chettinad,230.00,4.70,South Indian,non-veg
+115,Vegetable Pulao,120.00,4.10,North Indian,veg
+116,Chole Bhature,110.00,4.60,North Indian,veg
+117,Fish Fry,190.00,4.40,South Indian,non-veg
+118,Tandoori Chicken,240.00,4.80,North Indian,non-veg
+119,Idiyappam,80.00,4.00,South Indian,veg
+120,Lemon Rice,90.00,4.20,South Indian,veg
+121,Chicken Vindaloo,230.00,4.50,Goan,non-veg
+122,Aloo Gobi,100.00,4.70,North Indian,veg
+123,Mutton Korma,270.00,4.60,Mughlai,non-veg
+124,Fish Moilee,250.00,4.40,Kerala,non-veg
+125,Dal Makhani,140.00,4.80,North Indian,veg
+126,Paneer Tikka,180.00,4.20,North Indian,veg
+127,Chicken Fry,200.00,4.30,South Indian,non-veg
+128,Hyderabadi Biryani,250.00,4.70,South Indian,non-veg
+129,Pesarattu,70.00,4.10,South Indian,veg
+130,Rajma Masala,110.00,4.60,North Indian,veg
+131,Shrimp Biryani,280.00,4.50,South Indian,non-veg
+132,Bhindi Masala,120.00,4.00,North Indian,veg
+133,Ghee Roast Chicken,210.00,4.80,South Indian,non-veg
+134,Prawn Curry,300.00,4.50,South Indian,non-veg
+135,veg Hakka Noodles,150.00,4.20,Indo-Chinese,veg
+136,Mutton Keema,250.00,4.70,South Indian,non-veg
+137,Palak Paneer,150.00,4.40,North Indian,veg
+138,Butter Chicken,220.00,4.60,North Indian,non-veg
+139,veg Biryani,140.00,4.30,South Indian,veg
+140,Chicken 65,230.00,4.80,South Indian,non-veg
+141,Aloo Paratha,90.00,4.50,North Indian,veg
+142,Mutton Sukka,270.00,4.20,South Indian,non-veg
+143,Crab Curry,350.00,4.50,South Indian,non-veg
+144,Rasam,50.00,4.10,South Indian,veg
+145,veg Kothu Parotta,120.00,4.30,South Indian,veg
+146,Chicken Shawarma,200.00,4.50,Middle Eastern,non-veg
+147,Fish Curry,260.00,4.40,South Indian,non-veg
+148,Mixed veg Curry,140.00,4.10,North Indian,veg
+149,Mutton Chops,280.00,4.50,South Indian,non-veg
+150,Prawn Biryani,300.00,4.60,South Indian,non-veg
+151,Paneer Lababdar,170.00,4.80,North Indian,veg
+152,Chicken Kebab,220.00,4.80,North Indian,non-veg
+153,Lemon Chicken,240.00,4.20,South Indian,non-veg
+154,Mutton Fry,270.00,4.60,South Indian,non-veg
+155,Rava Kesari,60.00,4.30,South Indian,veg
+156,Chicken Manchurian,210.00,4.50,Indo-Chinese,non-veg
+157,Paneer Butter Naan,90.00,4.00,North Indian,veg
+158,veg Pulao,130.00,4.20,North Indian,veg
+159,Chicken Malai Tikka,220.00,4.70,North Indian,non-veg
+160,Fish Tikka,250.00,4.40,North Indian,non-veg
+161,Gobi Manchurian,130.00,4.40,Indo-Chinese,veg
+162,veg Dum Biryani,150.00,4.80,South Indian,veg
+163,Egg Curry,160.00,4.50,South Indian,non-veg
+164,Lamb Curry,280.00,4.40,North Indian,non-veg
+165,Paneer Kadai,200.00,4.20,North Indian,veg
+166,veg Manchurian,140.00,4.30,Indo-Chinese,veg
+167,Chicken Nuggets,150.00,4.60,American,non-veg
+168,Prawn Fry,300.00,4.50,South Indian,non-veg
+169,Masala Papad,50.00,4.40,North Indian,veg
+170,Chicken Curry,200.00,4.50,South Indian,non-veg
+171,Paneer Pakoda,100.00,4.60,North Indian,veg
+172,Lamb Biryani,280.00,4.50,South Indian,non-veg
+173,Aloo Gobi,100.00,4.80,North Indian,veg
+174,Chicken Majestic,230.00,4.70,South Indian,non-veg
+175,Gobi 65,130.00,4.40,Indo-Chinese,veg
+176,Chicken Keema,270.00,4.60,South Indian,non-veg
+177,Vegetable Stew,110.00,4.10,South Indian,veg
+178,Paneer Bhurji,150.00,4.20,North Indian,veg
+179,Fish Biryani,250.00,4.40,South Indian,non-veg
+180,Tomato Soup,60.00,4.60,North Indian,veg
+181,Mutton Chukka,280.00,4.50,South Indian,non-veg
+182,Prawn Masala,300.00,4.50,South Indian,non-veg
+183,Dal Tadka,110.00,4.50,North Indian,veg
+184,Egg Bhurji,100.00,4.40,North Indian,non-veg
+185,Mutton Kheema,270.00,4.80,South Indian,non-veg
+186,Chicken Fry,200.00,4.50,South Indian,non-veg
+187,veg Kurma,150.00,4.20,South Indian,veg
+188,Palak Paneer,180.00,4.70,North Indian,veg
+189,Chicken Seekh Kebab,240.00,4.60,North Indian,non-veg
+190,Bhindi Fry,130.00,4.20,North Indian,veg
+191,Fish Tawa Fry,270.00,4.50,South Indian,non-veg
+192,Paneer Tikka Masala,220.00,4.40,North Indian,veg
+193,Chicken Hariyali Tikka,260.00,4.30,North Indian,non-veg
+194,Masala Dosa,80.00,4.80,South Indian,veg
+195,Mutton Pepper Fry,290.00,4.60,South Indian,non-veg
+196,Prawn Ghee Roast,350.00,4.50,South Indian,non-veg
+197,Vegetable Korma,140.00,4.30,North Indian,veg
+198,Chicken Dum Biryani,260.00,4.70,South Indian,non-veg
+199,Rava Idli,70.00,4.40,South Indian,veg
+200,Chicken Lollipop,220.00,4.60,Indo-Chinese,non-veg
+201,Fish Tikka,250.00,4.30,North Indian,non-veg
+202,Paneer Tikka,200.00,4.20,North Indian,veg
+203,Mutton Curry,300.00,4.60,North Indian,non-veg
+204,Veg Manchurian,150.00,4.40,Indo-Chinese,veg
+205,Chicken Kathi Roll,180.00,4.50,North Indian,non-veg
+206,Mutton Biryani,320.00,4.80,South Indian,non-veg
+207,Aloo Chaat,90.00,4.20,North Indian,veg
+208,Prawn Biryani,340.00,4.70,South Indian,non-veg
+209,Butter Naan,40.00,4.10,North Indian,veg
+210,Chicken Mughlai,280.00,4.60,Mughlai,non-veg
+211,Paneer Bhurji,170.00,4.50,North Indian,veg
+212,Veg Spring Roll,120.00,4.30,Indo-Chinese,veg
+213,Fish Amritsari,260.00,4.40,North Indian,non-veg
+214,Mutton Seekh Kebab,300.00,4.60,North Indian,non-veg
+215,Veg Fried Rice,130.00,4.20,Indo-Chinese,veg
+216,Chicken Masala,240.00,4.70,South Indian,non-veg
+217,Mutton Keema,270.00,4.50,South Indian,non-veg
+218,Dal Tadka,110.00,4.30,North Indian,veg
+219,Egg Curry,160.00,4.40,South Indian,non-veg
+220,Vegetable Biryani,150.00,4.10,South Indian,veg
+221,Mutton Pepper Fry,290.00,4.60,South Indian,non-veg
+222,Gobi Manchurian,140.00,4.20,Indo-Chinese,veg
+223,Chicken 65,230.00,4.70,South Indian,non-veg
+224,Prawn Curry,320.00,4.60,South Indian,non-veg
+225,Paneer Tikka Masala,210.00,4.40,North Indian,veg
+226,Chicken Lollipop,220.00,4.30,Indo-Chinese,non-veg
+227,Fish Fry,260.00,4.50,South Indian,non-veg
+228,Veg Kurma,150.00,4.20,South Indian,veg
+229,Mutton Kheema,270.00,4.70,South Indian,non-veg
+230,Palak Paneer,180.00,4.40,North Indian,veg
+231,Chicken Seekh Kebab,240.00,4.60,North Indian,non-veg
+232,Bhindi Fry,130.00,4.20,North Indian,veg
+233,Fish Tawa Fry,270.00,4.50,South Indian,non-veg
+234,Paneer Butter Masala,220.00,4.40,North Indian,veg
+235,Chicken Hariyali Tikka,260.00,4.30,North Indian,non-veg
+236,Masala Dosa,80.00,4.80,South Indian,veg
+237,Mutton Pepper Fry,290.00,4.60,South Indian,non-veg
+238,Prawn Ghee Roast,350.00,4.50,South Indian,non-veg
+239,Vegetable Korma,140.00,4.30,North Indian,veg
+240,Chicken Dum Biryani,260.00,4.70,South Indian,non-veg
+241,Veg Kothu Parotta,120.00,4.30,South Indian,veg
+242,Chicken Shawarma,200.00,4.50,Middle Eastern,non-veg
+243,Fish Curry,260.00,4.40,South Indian,non-veg
+244,Mixed Veg Curry,140.00,4.10,North Indian,veg
+245,Mutton Chops,280.00,4.50,South Indian,non-veg
+246,Prawn Biryani,300.00,4.60,South Indian,non-veg
+247,Paneer Lababdar,170.00,4.80,North Indian,veg
+248,Chicken Kebab,220.00,4.80,North Indian,non-veg
+249,Lemon Chicken,240.00,4.20,South Indian,non-veg
+250,Mutton Fry,270.00,4.60,South Indian,non-veg
+251,Rava Kesari,60.00,4.30,South Indian,veg
+252,Chicken Manchurian,210.00,4.50,Indo-Chinese,non-veg
+253,Paneer Butter Naan,90.00,4.00,North Indian,veg
+254,Veg Pulao,130.00,4.20,North Indian,veg
+255,Chicken Malai Tikka,220.00,4.70,North Indian,non-veg
+256,Fish Tikka,250.00,4.40,North Indian,non-veg
+257,Gobi Manchurian,130.00,4.40,Indo-Chinese,veg
+258,Veg Dum Biryani,150.00,4.80,South Indian,veg
+259,Egg Curry,160.00,4.50,South Indian,non-veg
+260,Lamb Curry,280.00,4.40,North Indian,non-veg
+261,Paneer Kadai,200.00,4.20,North Indian,veg
+262,Veg Manchurian,140.00,4.30,Indo-Chinese,veg
+263,Chicken Nuggets,150.00,4.60,American,non-veg
+264,Prawn Fry,300.00,4.50,South Indian,non-veg
+265,Masala Papad,50.00,4.40,North Indian,veg
+266,Chicken Curry,200.00,4.50,South Indian,non-veg
+267,Paneer Pakoda,100.00,4.60,North Indian,veg
+268,Lamb Biryani,280.00,4.50,South Indian,non-veg
+269,Aloo Gobi,100.00,4.80,North Indian,veg
+270,Chicken Majestic,230.00,4.70,South Indian,non-veg
+271,Gobi 65,130.00,4.40,Indo-Chinese,veg
+272,Chicken Keema,270.00,4.60,South Indian,non-veg
+273,Vegetable Stew,110.00,4.10,South Indian,veg
+274,Paneer Bhurji,150.00,4.20,North Indian,veg
+275,Fish Biryani,250.00,4.40,South Indian,non-veg
+276,Tomato Soup,60.00,4.60,North Indian,veg
+277,Mutton Chukka,280.00,4.50,South Indian,non-veg
+278,Prawn Masala,300.00,4.50,South Indian,non-veg
+279,Dal Tadka,110.00,4.50,North Indian,veg
+280,Egg Bhurji,100.00,4.40,North Indian,non-veg
+281,Margherita Pizza,300.00,4.30,Italian,veg
+282,Pepperoni Pizza,400.00,4.00,Italian,non-veg
+283,Veggie Paradise Pizza,350.00,4.40,Italian,veg
+284,Chicken Golden Delight Pizza,450.00,4.60,Italian,non-veg
+285,Farmhouse Pizza,380.00,4.30,Italian,veg
+286,Extravaganzza Pizza,420.00,4.50,Italian,non-veg
+287,Peppy Paneer Pizza,360.00,4.40,Italian,veg
+288,Indi Tandoori Paneer Pizza,370.00,4.40,Italian,veg
+289,Chicken Dominator Pizza,430.00,4.60,Italian,non-veg
+290,Simply Veg Pizza,320.00,4.20,Italian,veg
+291,Original Recipe Chicken,250.00,4.50,American,non-veg
+292,Chicken Popcorn,150.00,4.30,American,non-veg
+293,Hot Wings,180.00,4.20,American,non-veg
+294,Coleslaw,100.00,4.00,American,veg
+295,Corn on the Cob,120.00,4.10,American,veg
+296,Zinger Burger,200.00,4.40,American,non-veg
+297,Chicken Bucket (12 pcs),800.00,4.60,American,non-veg
+298,Chicken Twister,180.00,4.30,American,non-veg
+299,Mashed Potatoes with Gravy,130.00,4.00,American,veg
+300,Krushers,150.00,4.20,American,veg
+301,Fried Biriyani,399.00,0.00,Indian,non-veg
